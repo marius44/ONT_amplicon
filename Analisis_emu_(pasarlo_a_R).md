@@ -12,3 +12,4 @@ emu abundance *.filtered.fastq --db /data/databases/emu/ --threads 39 --type map
 ## Se desactiva el entorno de emu
 conda deactivate
 
+## Ahora se puede pasar al script de R _emu_phyloseq.R_
