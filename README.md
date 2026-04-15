@@ -11,4 +11,6 @@ El segundo, Analisis_emu_(pasarlo_a_R).md, es un pipeline corto que utiliza al p
 
 El tercero, emu_phyloseq.R, es un script de R. Este le generará gráficas de abundancia relativa (por default estan a nivel phylum, familia y género pero puede agregar niveles a su gusto), un PCoA (Bray-Curtis), un heatmap con los 20 taxones más abundantes y generará uan gráfica de barras y una tabla en *.txt con los índices de diversidad calculados (Shannon y Simpson). 
 
+### Recuerde que debe usar las intrucciones de Analisis_emu_(pasarlo_a_R).md para generar una serie 
+
 
