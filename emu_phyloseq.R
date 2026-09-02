@@ -287,6 +287,16 @@ pheatmap(
   main         = "Top 20 species"
 )
 
+###
+# NO CORRER A PARTIR DE ESTA LINEA
+# NO CORRER A PARTIR DE ESTA LINEA
+# NO CORRER A PARTIR DE ESTA LINEA
+# NO CORRER A PARTIR DE ESTA LINEA
+# NO CORRER A PARTIR DE ESTA LINEA
+# NO CORRER A PARTIR DE ESTA LINEA
+# NO CORRER A PARTIR DE ESTA LINEA
+# NO CORRER A PARTIR DE ESTA LINEA
+
 ###############################################################3
 
 tax <- as.data.frame(tax_table(physeq_rel))
