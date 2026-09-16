@@ -2,7 +2,7 @@
 
 ## Filtrado de secuencias del tamaño del 16S rRNA (1500 bp). Filtrado con filtlong
 ### Esto debe hacerse por cada muestra:
-```
+```bash
 filtlong --min_length 1300 --max_length 1700 MUESTRA1.fastq > MUESTRA1.filtered.fastq
 ```
 ## Se activa el entorno de emu
