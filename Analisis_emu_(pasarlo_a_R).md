@@ -1,7 +1,7 @@
 # Análisis de amplicones 16s rRNA obtenido por ONT 
 
 ## Filtrado de secuencias del tamaño del 16S rRNA (1500 bp). Filtrado con filtlong
-### Esto debe hacerse por cada muestra:
+Esto debe hacerse por cada muestra:
 ```bash
 filtlong --min_length 1300 --max_length 1700 MUESTRA1.fastq > MUESTRA1.filtered.fastq
 ```
@@ -19,9 +19,10 @@ emu abundance MUESTRA1.filtered.fastq --db /data/databases/emu/ \
 cd emu_results
 less Muestra.filtered_rel-abundance.tsv
 ```
-## Para salir de esa pantalla presione la tecla q
+Para salir de esa pantalla presione la tecla q
 
 ## Se desactiva el entorno de emu
+```bash
 conda deactivate
-
+```
 ## Ahora se puede pasar al script de R _emu_phyloseq.R_
