@@ -1,6 +1,7 @@
 # Demultiplex de lecturas
 ## Anotación importante:
-Hacer esto solo si es el operador del secuenciador o bien si el operador no lo hizo
+Hacer esto solo si es el operador del secuenciador o bien si el operador no lo hizo.
+
 Para trabajar con las secuencias de amplicon de ONT, hay que dedemultiplexarlas:
 
 ## Usar sudo porque la carpeta esta bloqueado por la MinKnow
