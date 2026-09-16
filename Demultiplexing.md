@@ -9,7 +9,8 @@ Eg ruta
 ```
 ~/Escritorio/minknow/data/ajolotes_murcielagos/ajolotes_murcielagos/20250328_1209_MN47942_FBA39123_f311223a/fastq_pass
 ```
+## El demultiplexing se hace por cada muestra usando el comando cat.
 
 ```bash
-sudo cat barcode17/*.fastq.gz > P53C.fastq.gz
+sudo cat barcodeXX/*.fastq.gz > SU_MUESTRA.fastq.gz
 ```
